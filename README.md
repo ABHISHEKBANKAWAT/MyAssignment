@@ -1,2 +1,2 @@
 # MyAssignment
-Adapt ssignment solutions 
+Adapt assignment solutions 
