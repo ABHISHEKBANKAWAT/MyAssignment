@@ -1,4 +1,4 @@
-package myfiles;
+package BasicDatastructureAssingment;
 import java.util.*;
 
 public class Question_4 {
