@@ -1,4 +1,4 @@
-package Assignment_6_Collections;
+package Collections;
 import java.util.*;
 
 class Employee {
