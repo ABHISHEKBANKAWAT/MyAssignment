@@ -6,7 +6,7 @@ public class Question_6 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		String username = "gaurav", password = "gaurav";
+		String username = "Abhishek", password = "Abhi";
 		String user, pass;
 		int count = 0;
 		for(int i=0; i<3; i++) {
